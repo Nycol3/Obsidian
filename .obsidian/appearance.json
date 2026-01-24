@@ -1,0 +1,18 @@
+{
+  "theme": "moonstone",
+  "accentColor": "#e18937",
+  "cssTheme": "Material Gruvbox",
+  "enabledCssSnippets": [
+    "BoldItalic",
+    "espaciotitulos",
+    "ColorQuote",
+    "DiseñoTexto",
+    "DiseñoGeneral",
+    "callouts",
+    "Tabbed callout",
+    "Callout"
+  ],
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "showRibbon": true
+}

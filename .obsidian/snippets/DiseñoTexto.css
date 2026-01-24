@@ -1,0 +1,13 @@
+/*Cambia el grosor de Italica*/
+.cm-em {
+  font-weight: lighter !important; 
+}
+em {
+  font-weight: lighter !important; 
+}
+
+/*Ubica el titulo de cada pagina al centro*/
+.inline-title {
+  display: flex !important;
+  justify-content: center !important;
+}

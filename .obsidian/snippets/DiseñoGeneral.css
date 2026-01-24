@@ -1,0 +1,46 @@
+/*Le quita el margen inferior a todo H3 y H4*/
+.markdown-preview-view h3, .markdown-preview-view H4{
+    margin-block-end: 0px !important;
+}
+
+/*Le quita los margenes superior e inferior a las listas con viñetas*/
+.markdown-preview-view .el-ul .has-list-bullet{
+    margin-block: 0.5em !important;
+}
+.markdown-preview-view .el-ol ol{
+    margin-block: 0px !important;
+}
+
+
+/*Le quita los margenes inferior y superior a los parrafos*/
+.markdown-preview-view .el-p p{
+    margin-block: 0px !important;
+}
+
+/*Quita la separacion entre un H2 que
+le sigue inmediatamente un parrafo*/
+.markdown-preview-view .el-h2:has(+ .el-p) h2{
+    margin-bottom: 0 !important;
+}
+
+/*Separacion inferior entre parrafos, 
+solo cuando debajo hay otro parrafo*/
+.markdown-preview-view .el-p + .el-p {
+    margin-top: 1.5em !important;
+}
+
+/*Poner color a la pestaña que esta activa en la barra de arriba*/
+body {   
+    --tab-background-active: var(--inline-title-color);
+    --tab-outline-color: var(--inline-title-color);
+    --tab-font-size: 0.85em;
+}
+.workspace-tab-header.is-active {
+	font-weight: 500;
+  --tab-text-color-active: black;
+  --tab-text-color-focused: black;
+  --tab-text-color-focused-active: black;
+  --tab-text-color-focused-highlighted: black;
+  --tab-text-color-focused-active-current: black;
+}
+

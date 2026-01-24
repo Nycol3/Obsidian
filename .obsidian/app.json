@@ -1,0 +1,11 @@
+{
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./Archivos Adjuntos",
+  "readableLineLength": false,
+  "showIndentGuide": false,
+  "showInlineTitle": true,
+  "foldIndent": false,
+  "useTab": true,
+  "showUnsupportedFiles": true
+}

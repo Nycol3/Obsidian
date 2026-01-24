@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "2d2c8c5d13fa2665",
+    "type": "split",
+    "children": [
+      {
+        "id": "329c3267ba3091cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a3afd141d1585ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54a63ea31fe2caf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c1a000bcf35d2d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d55833c899112953",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "d0779eed15cf3912",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "198c13ce2a926ee7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "eff0cdca773a8885",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Navegador de Cuadernos"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5
+  },
+  "right": {
+    "id": "f502a0653a38e592",
+    "type": "split",
+    "children": [
+      {
+        "id": "0690364936f8a20d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceaa0490088eec41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RESUMEN DEL RESUMEN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de RESUMEN DEL RESUMEN"
+            }
+          },
+          {
+            "id": "3e4b308740178e11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "La Virgen María.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de La Virgen María"
+            }
+          },
+          {
+            "id": "d7393aed99a8aa6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5f27e6af4a5fc247",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "La Virgen María.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de La Virgen María"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Abrir selector rápido": true,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "notebook-navigator:Navegador de Cuadernos": false,
+      "daily-notes:Abrir la nota de hoy": true,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": true,
+      "bases:Crear nueva base": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false
+    }
+  },
+  "active": "3a3afd141d1585ae",
+  "lastOpenFiles": [
+    "La Virgen María.md",
+    "Obsidian/README.md",
+    "Obsidian",
+    "RESUMEN DEL RESUMEN.md",
+    "Dragon.md",
+    "Sin título.md",
+    "Rey Salomón.md",
+    "Reyes Magos.md",
+    "2025-11-25.md",
+    "Sin título.base",
+    "2025-11-16.md",
+    "Tittulo.md",
+    "Book/Rey Salomón.md",
+    "Obsidian.md",
+    "Book/Investigaciones.md",
+    "Book/Sin nombre",
+    "Book/Sin título.md",
+    "Book/Pocket.md",
+    "thumbnails/external/09255e8fe325328bfee4ab48e9262956.jpg",
+    "Carpeta/Archivo.md",
+    "thumbnails/resized/8ccca2d44920307dbb206ef436a23c8d_86cf658e.webp",
+    "thumbnails/resized",
+    "thumbnails/external",
+    "thumbnails",
+    "Book",
+    "Carpeta/otro mas.md",
+    "Carpeta/nuevo archivo.md",
+    "Bienvenido.md",
+    "Carpeta"
+  ]
+}
