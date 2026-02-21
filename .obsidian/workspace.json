@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Dragon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Dragon"
             }
           }
         ]
@@ -183,13 +183,14 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "eff0cdca773a8885",
+  "active": "3a3afd141d1585ae",
   "lastOpenFiles": [
+    "RESUMEN DEL RESUMEN.md",
+    "Dragon.md",
+    "README.md",
     "La Virgen María.md",
     "Obsidian/README.md",
     "Obsidian",
-    "RESUMEN DEL RESUMEN.md",
-    "Dragon.md",
     "Sin título.md",
     "Rey Salomón.md",
     "Reyes Magos.md",
