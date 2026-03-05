@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Dragon"
             }
-          },
-          {
-            "id": "54b6806b4763d68e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.11.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +183,7 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "54b6806b4763d68e",
+  "active": "eff0cdca773a8885",
   "lastOpenFiles": [
     "RESUMEN DEL RESUMEN.md",
     "Dragon.md",
