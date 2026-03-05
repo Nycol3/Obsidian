@@ -66,10 +66,15 @@ La Leyenda cuenta que había un dios llamado Lac Long Quan, hijo del Dios de la 
 
 
 ## Representación en Occidente
+En Occidente, el simbolismo del dragón se asocia esencialmente con el poder. Se le consideran criaturas de naturaleza caótica y destructiva, de un poder casi indomable, que los llevo a ser emblema de los gobernantes que lo adoptaron como emblema de su autoridad.
+ Asimismo, también son representantes de la dualidad: Como símbolo de la maldad primordial, su derrota representa una transformación, sugiriendo que incluso una amenaza también posee un componente vital que, en su integración, puede conducir a la renovación o al cambio.
 
-> [!warning] Reorganizando
-> 
-
+El dragón occidental era descrito como una criatura imponente y poderosa, con cuerpo cubierto de escamas, alas membranosas similares a las de un murciélago y entre dos o cuatro patas. A menudo se les atribuye la capacidad de escupir fuego, un símbolo del caos y de una fuerza incontrolable.
+ En la mitología griega, estas criaturas eran de naturaleza monstruosa y caótica, pero también eran custodios de secretos, tesoros o lugares sagrados. Esta dualidad los situaba en el límite entre el orden divino y el caos primordial, fuerzas que aún no habían sido sometidas por el orden divino. Su representación en la cultura griega enfatiza la lucha del héroe contra estas fuerzas, sirviendo de metáfora para la conquista del orden sobre el caos y el progreso hacia un mundo regido por leyes y estructuras establecidas. En estos combates, el dragón representa un principio cósmico, cuya acción –ya sea la lucha, su derrota o victoria– no es un evento aislado, sino un momento crucial que define el destino del cosmos.
+ Dentro de la pauta del viaje del héroe, los dragones representan el mal y los miedos más arraigados del hombre, que deben ser vencidos para poder retornar al hogar. Además, al encarnar la sabiduría, enfrentarse y superar a un dragón no solo significaba obtener acceso a sus riquezas, sino que demostraba que el caballero había conquistado a la criatura y, en consecuencia, simbolizaba su fuerza y crecimiento. En algunos relatos de Europa, se incluye una damisela o princesa que debe ser rescatada de un dragón. Esta última representa la pureza, y su rescate simboliza el triunfo de esta pureza sobre el mal.
+ Para el cristianismo, el dragón es símbolo del mal y la destrucción, una entidad que debe erradicarse. La lucha contra el dragón reforzaba la determinación de los reinos cristianos, y su representación bajo los pies de los santos y mártires, simbolizaba el triunfo de la fe sobre el diablo. En el Medievo, el dragón encarnaba el pecado, la apostasía, la herejía y la traición, pero también la cólera y la envidia, siendo un presagio de grandes calamidades.
+ Entre los romanos, representantes del Occidente antiguo, el dragón era considerado un símbolo de poder y sabiduría. Su imagen adornaba los estandartes de guerra, convirtiéndose en un símbolo heráldico y, posteriormente, militar.
+ Los vikingos decoraban las proas de sus barcos con figuras de dragones, creyendo que así ahuyentarían a los espíritus guardianes que custodiaban las costas que pretendían invadir.
 
 ## Representación en Mesoamérica
 En las culturas mesoamericanas, si bien no existía una figura de "dragón" como en las tradiciones europeas o asiáticas, se veneraban deidades y seres míticos con características serpentinas y atributos poderosos. Aunque el término "dragón" no es nativo de Mesoamérica, algunos estudiosos han debatido sobre la aplicabilidad de este concepto a las representaciones serpentinas mesoamericanas, debido a sus similitudes en función y simbolismo

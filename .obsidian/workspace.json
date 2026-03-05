@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dragon.md",
+                "file": "RESUMEN DEL RESUMEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dragon"
+              "title": "RESUMEN DEL RESUMEN"
             }
           }
         ]
@@ -80,7 +80,7 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook",
+              "icon": "notebook-navigator",
               "title": "Navegador de Cuadernos"
             }
           }
@@ -185,8 +185,8 @@
   },
   "active": "eff0cdca773a8885",
   "lastOpenFiles": [
-    "RESUMEN DEL RESUMEN.md",
     "Dragon.md",
+    "RESUMEN DEL RESUMEN.md",
     "README.md",
     "La Virgen María.md",
     "Obsidian/README.md",
