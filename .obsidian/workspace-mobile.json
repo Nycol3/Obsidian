@@ -11,10 +11,14 @@
             "id": "4a79a5a33140a5a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dragon.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Dragon"
             }
           }
         ]
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Dragon.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,6 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Dragon.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -125,6 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Dragon.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -150,6 +157,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b06d8b9d7ab11ba",
-  "lastOpenFiles": []
+  "active": "4a79a5a33140a5a9",
+  "lastOpenFiles": [
+    "Sin título.md"
+  ]
 }
