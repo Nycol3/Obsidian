@@ -439,9 +439,9 @@
   "folderTreeSortOverrides": {},
   "folderAppearances": {
     "/": {
-      "previewRows": 3,
       "groupBy": "date",
-      "titleRows": 1
+      "titleRows": 1,
+      "mode": "compact"
     }
   },
   "tagIcons": {},
