@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4e2e6711f119426f",
+        "id": "1a65706eb6bf7127",
         "type": "tabs",
         "children": [
           {
-            "id": "be3c64d854ea9578",
+            "id": "84cc287b55b49bb2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/notebook-navigator/data.json",
-                "bFile": ".obsidian/plugins/notebook-navigator/data.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: data.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -80,8 +76,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook-navigator",
-              "title": "Navegador de Cuadernos"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           }
         ],
@@ -89,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "f502a0653a38e592",
@@ -186,7 +181,6 @@
       "switcher:Abrir selector rápido": true,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
-      "notebook-navigator:Navegador de Cuadernos": false,
       "daily-notes:Abrir la nota de hoy": true,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": true,
@@ -194,7 +188,7 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "be3c64d854ea9578",
+  "active": "eff0cdca773a8885",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "RESUMEN DEL RESUMEN.md",
