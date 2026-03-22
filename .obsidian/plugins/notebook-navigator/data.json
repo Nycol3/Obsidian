@@ -437,8 +437,17 @@
   },
   "customVaultName": "",
   "pinnedNotes": {},
-  "fileIcons": {},
-  "fileColors": {},
+  "fileIcons": {
+    "Dragon.md": "emoji:🐲",
+    "La Virgen María.md": "emoji:🕊️",
+    "Reyes Magos.md": "emoji:🐫",
+    "Rey Salomón.md": "emoji:👑"
+  },
+  "fileColors": {
+    "Dragon.md": "#84cc16",
+    "La Virgen María.md": "#06b6d4",
+    "Reyes Magos.md": "#eab308"
+  },
   "fileBackgroundColors": {},
   "folderIcons": {},
   "folderColors": {},
