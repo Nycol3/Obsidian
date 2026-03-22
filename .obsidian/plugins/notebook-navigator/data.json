@@ -53,7 +53,7 @@
   "homepage": null,
   "mobileHomepage": null,
   "useMobileHomepage": false,
-  "dualPane": false,
+  "dualPane": true,
   "dualPaneOrientation": "horizontal",
   "showTooltips": false,
   "showTooltipPath": true,
@@ -376,25 +376,9 @@
     ]
   },
   "customVaultName": "",
-  "pinnedNotes": {
-    "RESUMEN DEL RESUMEN.md": {
-      "folder": true,
-      "tag": false,
-      "property": false
-    }
-  },
-  "fileIcons": {
-    "Dragon.md": "emoji:🐲",
-    "La Virgen María.md": "emoji:🕊️",
-    "Reyes Magos.md": "emoji:🐫",
-    "Rey Salomón.md": "emoji:👑"
-  },
-  "fileColors": {
-    "Dragon.md": "#84cc16",
-    "La Virgen María.md": "#06b6d4",
-    "Reyes Magos.md": "#eab308",
-    "Rey Salomón.md": "#ef4444"
-  },
+  "pinnedNotes": {},
+  "fileIcons": {},
+  "fileColors": {},
   "folderIcons": {},
   "folderColors": {},
   "folderBackgroundColors": {},
