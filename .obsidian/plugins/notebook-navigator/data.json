@@ -386,12 +386,14 @@
   "fileIcons": {
     "Dragon.md": "emoji:🐲",
     "La Virgen María.md": "emoji:🕊️",
-    "Reyes Magos.md": "emoji:🐫"
+    "Reyes Magos.md": "emoji:🐫",
+    "Rey Salomón.md": "emoji:👑"
   },
   "fileColors": {
     "Dragon.md": "#84cc16",
     "La Virgen María.md": "#06b6d4",
-    "Reyes Magos.md": "#eab308"
+    "Reyes Magos.md": "#eab308",
+    "Rey Salomón.md": "#ef4444"
   },
   "folderIcons": {},
   "folderColors": {},
