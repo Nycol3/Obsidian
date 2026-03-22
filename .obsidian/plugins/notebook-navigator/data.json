@@ -367,7 +367,7 @@
   },
   "fileColors": {
     "Dragon.md": "#4a9869",
-    "La Virgen María.md": "#dcffff",
+    "La Virgen María.md": "#dcf9ff",
     "Reyes Magos.md": "#c27316",
     "Rey Salomón.md": "#eab308",
     "RESUMEN DEL RESUMEN.md": "#b1160f"
@@ -417,7 +417,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "",
+  "lastShownVersion": "2.4.3",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "rootPropertyOrder": [],
