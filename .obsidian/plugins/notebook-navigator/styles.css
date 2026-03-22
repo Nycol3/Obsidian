@@ -201,10 +201,7 @@ body {
     --nn-theme-calendar-feature-image-overlay-color: rgb(0 0 0 / 0.05);
     --nn-theme-calendar-day-today-color: var(--nn-theme-calendar-day-in-month-color);
     --nn-theme-calendar-day-today-bg: var(--text-selection);
-<<<<<<< HEAD
-=======
     --nn-theme-calendar-day-active-border-color: var(--nn-theme-foreground-faded);
->>>>>>> origin/main
 
     /* -- Folder & Tag Items -- */
     --nn-theme-navitem-chevron-color: var(--nn-theme-foreground-muted);
@@ -287,10 +284,6 @@ body {
     --nn-theme-file-border-radius: 8px;
     --nn-theme-file-border-width: 0px;
     --nn-theme-file-pill-border-width: 1px;
-<<<<<<< HEAD
-    --nn-theme-file-hover-border-color: transparent;
-=======
->>>>>>> origin/main
     --nn-theme-file-selected-border-color: transparent;
     --nn-theme-file-selected-inactive-border-color: var(--nn-theme-file-selected-border-color);
     --nn-theme-file-selected-bg: var(--text-selection);
@@ -2126,15 +2119,12 @@ body {
     flex-shrink: 0;
 }
 
-<<<<<<< HEAD
-=======
 .nn-navitem-hover-action-slot--overlay {
     width: 0;
     min-width: 0;
     overflow: visible;
 }
 
->>>>>>> origin/main
 .nn-navitem-hover-action-button {
     position: absolute;
     top: 50%;
@@ -2168,15 +2158,12 @@ body {
     pointer-events: auto;
 }
 
-<<<<<<< HEAD
-=======
 .nn-desktop .nn-shortcut-item--removable:hover .nn-navitem-hover-action-slot--overlay,
 .nn-desktop .nn-shortcut-header-item:hover .nn-navitem-hover-action-slot--overlay,
 .nn-desktop .nn-properties-header-item:hover .nn-navitem-hover-action-slot--overlay {
     width: 18px;
 }
 
->>>>>>> origin/main
 .nn-desktop .nn-shortcut-item--removable:hover .nn-navitem-hover-action-count,
 .nn-desktop .nn-shortcut-header-item:hover .nn-navitem-hover-action-count,
 .nn-desktop .nn-properties-header-item:hover .nn-navitem-hover-action-count {
@@ -2495,17 +2482,9 @@ body {
     --nn-calendar-task-indicator-offset-x: clamp(5px, calc(var(--nn-calendar-day-font-size) * 0.42), 9px);
     --nn-calendar-weekend-corner-radius: 6px;
     --nn-calendar-header-chip-bg: var(--nn-theme-nav-bg);
-<<<<<<< HEAD
-    --nn-calendar-note-indicator-color: var(--nn-theme-calendar-day-has-note-bg);
-    --nn-calendar-task-indicator-color: var(--nn-theme-calendar-day-has-unfinished-task-color);
-<<<<<<< HEAD
-=======
-=======
     --nn-calendar-note-indicator-color: var(--nn-theme-calendar-note-indicator-color);
     --nn-calendar-task-indicator-color: var(--nn-theme-calendar-unfinished-task-indicator-color);
->>>>>>> origin/main
     --nn-calendar-active-editor-border-color: var(--nn-theme-calendar-day-active-border-color);
->>>>>>> origin/main
 }
 
 .notebook-navigator-mobile :is(.nn-navigation-pane, .nn-list-pane, .nn-single-pane-calendar) {
@@ -2895,13 +2874,6 @@ body {
 .nn-navigation-calendar-year-grid {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
-<<<<<<< HEAD
-    gap: 4px;
-}
-
-.nn-navigation-calendar-year-month {
-    background: transparent !important;
-=======
     grid-template-rows: repeat(3, minmax(0, 1fr));
     gap: 1px;
     aspect-ratio: 16 / 9;
@@ -2910,28 +2882,17 @@ body {
 .nn-navigation-calendar-year-month {
     position: relative;
     background-color: transparent !important;
->>>>>>> origin/main
     color: var(--nn-theme-calendar-day-in-month-color);
     font: inherit;
     font-size: var(--nn-calendar-day-font-size);
     line-height: 1;
-<<<<<<< HEAD
-    min-height: 24px;
-    padding: 4px 6px;
-=======
     min-height: 0;
     padding: 6px;
->>>>>>> origin/main
     text-align: center;
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
     font-variant-numeric: tabular-nums;
-<<<<<<< HEAD
-}
-
-.nn-navigation-calendar-year-month.is-selected-month {
-=======
     display: flex;
     align-items: center;
     justify-content: center;
@@ -3027,13 +2988,8 @@ body {
     color: var(--nn-theme-calendar-feature-image-text-color);
 }
 
-<<<<<<< HEAD
-.nn-navigation-calendar[data-highlight-today='true'] .nn-navigation-calendar-year-month.is-current-month:not(.has-feature-image) {
->>>>>>> origin/main
-=======
 .nn-navigation-calendar[data-highlight-today='true']
     .nn-navigation-calendar-year-month.is-current-month:not(.has-feature-image):not(.has-feature-image-key) {
->>>>>>> origin/main
     background-color: var(--nn-theme-calendar-day-today-bg) !important;
     color: var(--nn-theme-calendar-day-today-color);
 }
@@ -3042,9 +2998,6 @@ body {
     color: var(--nn-theme-calendar-day-in-month-color);
 }
 
-<<<<<<< HEAD
-.nn-navigation-calendar button.nn-navigation-calendar-year-month.is-selected-month {
-=======
 .nn-navigation-calendar button.nn-navigation-calendar-year-month.has-feature-image {
     color: var(--nn-theme-calendar-feature-image-text-color);
 }
@@ -3063,12 +3016,7 @@ body {
 }
 
 .nn-navigation-calendar[data-highlight-today='true']
-<<<<<<< HEAD
-    button.nn-navigation-calendar-year-month.is-current-month.is-selected-month:not(.has-feature-image) {
->>>>>>> origin/main
-=======
     button.nn-navigation-calendar-year-month.is-current-month.is-selected-month:not(.has-feature-image):not(.has-feature-image-key) {
->>>>>>> origin/main
     color: var(--nn-theme-calendar-day-today-color);
 }
 
@@ -3384,12 +3332,6 @@ body {
         background-color: var(--nn-theme-calendar-hover-bg) !important;
     }
 
-<<<<<<< HEAD
-    .nn-navigation-calendar-year-month:hover:not(.is-selected-month) {
-        background-color: var(--nn-theme-calendar-hover-bg) !important;
-        filter: brightness(1.05);
-    }
-=======
     .nn-navigation-calendar-year-month:hover {
         filter: brightness(1.05);
     }
@@ -3397,7 +3339,6 @@ body {
     .nn-navigation-calendar-year-month:hover:not(.is-selected-month):not(.has-feature-image):not(.has-feature-image-key) {
         background-color: var(--nn-theme-calendar-hover-bg) !important;
     }
->>>>>>> origin/main
 }
 
 .nn-navigation-calendar-day.is-outside-month:not(.has-feature-image):not(.has-feature-image-key) {
@@ -3434,8 +3375,6 @@ body {
     pointer-events: none;
 }
 
-<<<<<<< HEAD
-=======
 .nn-navigation-calendar-day.is-active-editor-file {
     box-shadow: inset 0 0 0 2px var(--nn-calendar-active-editor-border-color) !important;
 }
@@ -3445,7 +3384,6 @@ body {
     box-shadow: inset 0 0 0 2px var(--nn-calendar-active-editor-border-color);
 }
 
->>>>>>> origin/main
 /* Center the two-indicator group horizontally when both note and unfinished-task indicators are visible. */
 .nn-navigation-calendar-day.has-daily-note.has-unfinished-tasks:not(.has-feature-image):not(.has-feature-image-key)::after {
     transform: translate(calc(-50% - (var(--nn-calendar-task-indicator-offset-x) / 2)), var(--nn-calendar-note-indicator-center-offset));
@@ -3491,21 +3429,16 @@ body {
     color: var(--nn-theme-calendar-feature-image-text-color);
 }
 
-<<<<<<< HEAD
-=======
 .nn-navigation-calendar-year-month.has-feature-image {
     color: var(--nn-theme-calendar-feature-image-text-color);
 }
 
->>>>>>> origin/main
 .nn-navigation-calendar-day.has-feature-image .nn-navigation-calendar-day-number {
     text-shadow:
         0 1px 2px rgba(0, 0, 0, 0.88),
         0 2px 8px rgba(0, 0, 0, 0.65);
 }
 
-<<<<<<< HEAD
-=======
 .nn-navigation-calendar-year-month.has-feature-image .nn-navigation-calendar-year-month-label {
     font-weight: 600;
     overflow: visible;
@@ -3519,7 +3452,6 @@ body {
     font-weight: 600;
 }
 
->>>>>>> origin/main
 .nn-navigation-calendar-day-number {
     font-size: var(--nn-calendar-day-font-size);
     line-height: 1;
@@ -3549,12 +3481,8 @@ body {
 
 .nn-navigation-calendar-hover-tooltip-image {
     width: 100%;
-<<<<<<< HEAD
-    height: 120px;
-=======
     height: auto;
     aspect-ratio: 4 / 3;
->>>>>>> origin/main
     border-radius: 8px;
     background-size: cover;
     background-position: center;
@@ -3575,8 +3503,6 @@ body {
     --nn-calendar-header-chip-bg: var(--nn-calendar-right-sidebar-bg);
 }
 
-<<<<<<< HEAD
-=======
 .nn-calendar-right-sidebar .nn-navigation-calendar-year-grid {
     width: 100%;
 }
@@ -3586,7 +3512,6 @@ body {
     height: 100%;
 }
 
->>>>>>> origin/main
 /* ========================================================================
    Header mode: compact yearly (right sidebar)
    ======================================================================== */
@@ -4212,13 +4137,8 @@ body {
     cursor: pointer;
 }
 
-<<<<<<< HEAD
-/* Underline property pills that render wiki-link values */
-.nn-file-tag.nn-file-property.nn-file-property-wikilink {
-=======
 /* Underline property pills that render clickable link values */
 .nn-file-tag.nn-file-property.nn-file-property-link {
->>>>>>> origin/main
     text-decoration: underline;
     text-underline-offset: 2px;
 }
@@ -4673,20 +4593,7 @@ body {
    Hover States
    ======================================================================== */
 
-<<<<<<< HEAD
-/* File hover states - maintains transparency - desktop only */
-.nn-desktop .nn-file:not(.nn-selected):hover .nn-file-content {
-    background-color: transparent;
-    box-shadow: inset 0 0 0 var(--nn-theme-file-border-width) var(--nn-theme-file-hover-border-color);
-}
-
-.nn-desktop .nn-file.nn-selected:hover .nn-file-content {
-    background-color: transparent;
-    box-shadow: none;
-}
-=======
 /* File rows intentionally keep their existing styling on hover. */
->>>>>>> origin/main
 /* Source: src/styles/sections/state-drag-and-drop.css */
 
 /* ========================================================================
@@ -6076,24 +5983,18 @@ body.nn-resizing {
     gap: var(--size-2-2);
     padding-left: var(--size-2-2);
     padding-right: var(--size-2-2);
-<<<<<<< HEAD
-=======
     border-radius: var(--radius-s);
     transition: background-color 120ms ease;
->>>>>>> origin/main
 }
 
 .is-mobile .modal.nn-property-keys-modal .nn-property-keys-row {
     gap: var(--size-2-3);
 }
 
-<<<<<<< HEAD
-=======
 .modal.nn-property-keys-modal .nn-property-keys-list .nn-property-keys-row:hover {
     background: var(--nn-theme-foreground-faint);
 }
 
->>>>>>> origin/main
 .nn-property-keys-label {
     flex: 1;
     min-width: 0;
@@ -8173,13 +8074,8 @@ settings:
         level: 1
         collapsed: true
     -
-<<<<<<< HEAD
-        id: nn-border-widths-heading
-        title: Border widths
-=======
         id: nn-border-nav-heading
         title: Navigation borders
->>>>>>> origin/main
         type: heading
         level: 2
         collapsed: false
@@ -8194,45 +8090,6 @@ settings:
         max: 4
         step: 1
     -
-<<<<<<< HEAD
-        id: nn-theme-navitem-count-border-width
-        title: File count border width
-        description: Border width on navigation file count badges.
-        type: variable-number-slider
-        default: 0
-        format: px
-        min: 0
-        max: 4
-        step: 1
-    -
-        id: nn-theme-file-border-width
-        title: File item border width
-        description: Border width on file item hover and selection states.
-        type: variable-number-slider
-        default: 0
-        format: px
-        min: 0
-        max: 4
-        step: 1
-    -
-        id: nn-theme-file-pill-border-width
-        title: Pill border width
-        description: Border width on tag and custom property pills.
-        type: variable-number-slider
-        default: 1
-        format: px
-        min: 0
-        max: 4
-        step: 1
-    -
-        id: nn-border-nav-heading
-        title: Navigation borders
-        type: heading
-        level: 2
-        collapsed: false
-    -
-=======
->>>>>>> origin/main
         id: nn-theme-navitem-custom-border-color
         title: Custom background border color
         description: Border color on folders and tags with custom backgrounds.
@@ -8269,8 +8126,6 @@ settings:
         default-light: '#'
         default-dark: '#'
     -
-<<<<<<< HEAD
-=======
         id: nn-theme-navitem-count-border-width
         title: File count border width
         description: Border width on navigation file count badges.
@@ -8281,7 +8136,6 @@ settings:
         max: 4
         step: 1
     -
->>>>>>> origin/main
         id: nn-theme-navitem-count-border-color
         title: File count border color
         description: Border color on navigation file count badges.
@@ -8315,16 +8169,6 @@ settings:
         level: 2
         collapsed: false
     -
-<<<<<<< HEAD
-        id: nn-theme-file-hover-border-color
-        title: Hover border color
-        description: Border color on hovered file items.
-        type: variable-themed-color
-        opacity: true
-        format: rgb
-        default-light: '#'
-        default-dark: '#'
-=======
         id: nn-theme-file-border-width
         title: Selection border width
         description: Border width on selected file items.
@@ -8334,7 +8178,6 @@ settings:
         min: 0
         max: 4
         step: 1
->>>>>>> origin/main
     -
         id: nn-theme-file-selected-border-color
         title: Selection border color
@@ -8360,8 +8203,6 @@ settings:
         level: 2
         collapsed: false
     -
-<<<<<<< HEAD
-=======
         id: nn-theme-file-pill-border-width
         title: Pill border width
         description: Border width on tag and custom property pills.
@@ -8372,7 +8213,6 @@ settings:
         max: 4
         step: 1
     -
->>>>>>> origin/main
         id: nn-theme-file-tag-border-color
         title: Tag pill border color
         description: Border color on tag pills without custom colors.
@@ -8574,8 +8414,6 @@ settings:
         default-light: '#'
         default-dark: '#'
     -
-<<<<<<< HEAD
-=======
         id: nn-theme-calendar-day-active-border-color
         title: Active day outline color
         description: Border color for the outline shown on the active day in the calendar.
@@ -8585,7 +8423,6 @@ settings:
         default-light: '#'
         default-dark: '#'
     -
->>>>>>> origin/main
         id: nn-nav-pane-heading
         title: Navigation pane (folders, tags, shortcuts)
         description: Customize the background and items within the navigation pane.

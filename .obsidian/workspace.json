@@ -76,8 +76,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook-navigator",
+              "title": "Navegador de Cuadernos"
             }
           }
         ],
@@ -185,7 +185,8 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": true,
       "bases:Crear nueva base": false,
-      "workspaces:Gestionar disposiciones de espacio de trabajo": false
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "notebook-navigator:Navegador de Cuadernos": false
     }
   },
   "active": "eff0cdca773a8885",
