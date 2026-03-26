@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dragon.md",
+                "file": "RESUMEN DEL RESUMEN.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dragon"
+              "title": "RESUMEN DEL RESUMEN"
             }
           }
         ]
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dragon.md",
+            "file": "RESUMEN DEL RESUMEN.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,8 +168,8 @@
   },
   "active": "9d1437dbc2965b81",
   "lastOpenFiles": [
-    "RESUMEN DEL RESUMEN.md",
     "Dragon.md",
+    "RESUMEN DEL RESUMEN.md",
     "README.md",
     "Sin título.md"
   ]
