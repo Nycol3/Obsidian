@@ -4,4 +4,6 @@ En la cultura china se cree que el cielo está formado de Energia (Qi), y que el
 ---
 
 obsidian://show-plugin?id=widgets
-- Chusmear este Pluggin. 
+- Chusmear este Pluggin.
+obsidian://show-plugin?id=recipe-view
+- Chusmear este para futuro Recetario.
