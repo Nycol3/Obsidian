@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La Virgen María.md",
+                "file": "RESUMEN DEL RESUMEN.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Virgen María"
+              "title": "RESUMEN DEL RESUMEN"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "9d1437dbc2965b81",
   "lastOpenFiles": [
-    "RESUMEN DEL RESUMEN.md",
     "La Virgen María.md",
+    "RESUMEN DEL RESUMEN.md",
     "Dragon.md",
     "README.md",
     "Sin título.md"
