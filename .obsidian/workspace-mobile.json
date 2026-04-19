@@ -66,8 +66,8 @@
         "state": {
           "type": "tag",
           "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true,
+            "sortOrder": "alphabeticalReverse",
+            "useHierarchy": false,
             "showSearch": false,
             "searchQuery": ""
           },
