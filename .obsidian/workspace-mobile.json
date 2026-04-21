@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/RESUMEN DEL RESUMEN.md",
+                "file": "Proyectos/Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RESUMEN DEL RESUMEN"
+              "title": "Inbox"
             }
           }
         ]
@@ -166,11 +166,11 @@
       "notebook-navigator:Navegador de Cuadernos": false
     }
   },
-  "active": "4a9e1fdd9a0c3bab",
+  "active": "9d1437dbc2965b81",
   "lastOpenFiles": [
     "Proyectos",
     "Proyectos/La Virgen María.md",
-    "Proyectos/RESUMEN DEL RESUMEN.md",
+    "Proyectos/Inbox.md",
     "Proyectos/Dragon.md",
     "README.md",
     "Sin título.md"
