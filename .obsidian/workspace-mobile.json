@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RESUMEN DEL RESUMEN.md",
+                "file": "Proyectos/RESUMEN DEL RESUMEN.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,9 +168,10 @@
   },
   "active": "4a9e1fdd9a0c3bab",
   "lastOpenFiles": [
-    "La Virgen María.md",
-    "RESUMEN DEL RESUMEN.md",
-    "Dragon.md",
+    "Proyectos",
+    "Proyectos/La Virgen María.md",
+    "Proyectos/RESUMEN DEL RESUMEN.md",
+    "Proyectos/Dragon.md",
     "README.md",
     "Sin título.md"
   ]

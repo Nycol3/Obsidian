@@ -443,17 +443,23 @@
     ]
   },
   "customVaultName": "",
-  "pinnedNotes": {},
+  "pinnedNotes": {
+    "Proyectos/RESUMEN DEL RESUMEN.md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    }
+  },
   "fileIcons": {
-    "Dragon.md": "emoji:🐲",
-    "La Virgen María.md": "emoji:🕊️",
-    "Reyes Magos.md": "emoji:🐫",
-    "Rey Salomón.md": "emoji:👑"
+    "Proyectos/Dragon.md": "emoji:🐲",
+    "Proyectos/Reyes Magos.md": "emoji:🐫",
+    "Proyectos/Rey Salomón.md": "emoji:👑",
+    "Proyectos/La Virgen María.md": "emoji:🕊️"
   },
   "fileColors": {
-    "Dragon.md": "#84cc16",
-    "La Virgen María.md": "#06b6d4",
-    "Reyes Magos.md": "#eab308"
+    "Proyectos/Dragon.md": "#84cc16",
+    "Proyectos/Reyes Magos.md": "#eab308",
+    "Proyectos/La Virgen María.md": "#06b6d4"
   },
   "fileBackgroundColors": {},
   "folderIcons": {},
