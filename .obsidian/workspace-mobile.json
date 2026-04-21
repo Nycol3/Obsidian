@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/Dragon.md",
+                "file": "Proyectos/Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dragon"
+              "title": "Inbox"
             }
           }
         ]
@@ -168,10 +168,10 @@
   },
   "active": "9d1437dbc2965b81",
   "lastOpenFiles": [
+    "Proyectos/Dragon.md",
     "Proyectos/La Virgen María.md",
     "Proyectos/Inbox.md",
     "Proyectos",
-    "Proyectos/Dragon.md",
     "README.md",
     "Sin título.md"
   ]
