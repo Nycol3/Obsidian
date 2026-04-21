@@ -142,7 +142,7 @@
   "deleteAttachments": "ask",
   "moveFileConflicts": "ask",
   "externalIconProviders": {
-    "fontawesome-solid": true
+    "fontawesome-solid": false
   },
   "checkForUpdatesOnStart": true,
   "pinNavigationBanner": true,
@@ -456,7 +456,8 @@
     "Proyectos/Dragon.md": "emoji:🐲",
     "Proyectos/Reyes Magos.md": "emoji:🐫",
     "Proyectos/Rey Salomón.md": "emoji:👑",
-    "Proyectos/La Virgen María.md": "emoji:🕊️"
+    "Proyectos/La Virgen María.md": "emoji:🕊️",
+    "Proyectos/Inbox.md": "emoji:⚠️"
   },
   "fileColors": {
     "Proyectos/Dragon.md": "#84cc16",
