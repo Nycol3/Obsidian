@@ -141,7 +141,9 @@
   "confirmBeforeDelete": true,
   "deleteAttachments": "ask",
   "moveFileConflicts": "ask",
-  "externalIconProviders": {},
+  "externalIconProviders": {
+    "fontawesome-solid": true
+  },
   "checkForUpdatesOnStart": true,
   "pinNavigationBanner": true,
   "showNoteCount": true,
