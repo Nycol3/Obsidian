@@ -461,7 +461,9 @@
     "Proyectos/Reyes Magos.md": "#eab308",
     "Proyectos/La Virgen María.md": "#06b6d4"
   },
-  "fileBackgroundColors": {},
+  "fileBackgroundColors": {
+    "Proyectos/Inbox.md": "#eab30896"
+  },
   "folderIcons": {},
   "folderColors": {},
   "folderBackgroundColors": {},
